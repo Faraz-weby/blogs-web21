@@ -1,0 +1,190 @@
+#history-body {
+    background-image: url('history-bg.jpg');
+    background-size: cover;
+    background-repeat:no-repeat ;
+    background-position: center;
+
+}
+#history-body{
+    padding: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#history-banner-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#history-banner-{
+    height: 600px;
+
+}
+
+.heading-tittle-history {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    margin: 0;
+    margin-top: 50px;
+}
+#mystery-img {
+    height:300px;
+    border-radius: 10px;
+    margin:20px;
+    float:right;
+}
+
+#mythology-img {
+    height: 300px;
+    border-radius: 10px;
+    margin: 20px;
+    float: right;
+}
+#taj-mahal {
+    height: 400px;
+    margin: 20px;
+    float: left;
+    border-radius: 20px;
+    margin-left: 0px;
+}
+
+#old-city {
+    height: 400px;
+    float: left;
+    margin: 20px;
+    margin-left: 0px;
+    border-radius: 20px;
+}
+
+/*travel section blog style*/
+
+#travel-body {
+    background-image: url('travel-bg.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 180px;
+    padding-top: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+#travel-banner-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#tarvel-tittle-banner {
+    height: 600px;
+
+}
+
+#travel-main-p {
+    font-size: 25px;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+#travel-dairies-img {
+    height:200px;
+    display: flex;
+    float: right;
+    border-radius: 20px;
+    margin: 25px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+.travel-tittle {
+    margin-top: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#hidden-gems-img {
+    height:200px;
+    display: flex;
+    float: right;
+    border-radius: 20px;
+    margin: 25px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+
+}
+
+#cultural-img {
+    height:200px;
+    display: flex;
+    float: right;
+    border-radius: 20px;
+    margin: 25px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+
+}
+
+#backpacking-img {
+    height:200px;
+    display: flex;
+    float: left;
+    border-radius: 20px;
+    margin: 25px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+
+}
+
+#backpacking-p{
+    margin-right: 100px;
+}
+
+
+/* EDUCATION BLOG */ 
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0 20px;
+}
+#education-heading,.education-tittle {
+    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#education-heading {
+    text-align: center;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.education-tittle {
+    color: #5a5a5a;
+}
+p {
+    color: #555;
+    margin-bottom: 20px;
+}
+ul {
+    margin-left: 20px;
+    color: #555;
+}
+
+#education-body {
+    background-image: url('education.bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 180px;
+    padding-top: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+#more-page-body {
+    background-image: url('more-page-bg.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+

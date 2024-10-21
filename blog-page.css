@@ -1,0 +1,214 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+header {
+    box-shadow: 2px 2px 4px black;
+    border-radius: 10px;
+    padding:10px;
+    padding-bottom: 100px;
+}
+header {
+    
+    background-image: url('blogger-bg.jpg');
+    background-size: cover;
+    background-position:center;
+    background-repeat:no-repeat ;        
+}
+
+#blogger-tittle {
+    height: 100px;
+    float:left;
+    margin-left:40px ;
+
+}
+.refer {
+    color:#3a3a3a;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    margin:10px;
+    padding: 10px;
+    font-size: 17px;
+}
+
+body{
+    background-image: url('blogger-bg.avif');
+    background-size: cover;
+    background-position:center;
+    background-repeat:no-repeat ;
+    height: 100vh;
+    background-attachment:fixed ;
+}
+
+
+.topics-cover {
+    height: 600px;
+    border-radius: 20px;
+    width: 1200px;
+}
+#Topics-tittle {
+    text-align: center;
+    font-size: 30px;
+    display: inline-block;
+    box-shadow: 1px 1px 2px black;
+    padding: 10px;
+    border-radius: 10px;
+}
+.topic-box {
+    margin:10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    box-shadow: 1px 1px 3px black;
+    border-radius: 20px;
+    padding: 20px;
+
+
+}
+
+.topics {
+    font-size: 35px;
+    font-weight: 400;
+    margin-left: 20px;
+
+}
+#education-cover {
+    height:700px;
+    width: 1200px;
+    border-radius:20px;
+
+}
+
+#history-cover {
+    height:700px;
+    width: 1200px;
+    border-radius:20px;
+}
+.discription-tittle {
+    font-size: 22px;
+}
+.discription{
+    text-align: left;
+    font-size: 17px;
+    margin-bottom: 80px;
+    margin-right: 50px;
+}
+
+#topic-tittle-div {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    margin-left: 30px;
+
+}
+#more-button-div {
+    display:flex;
+    justify-content: left;
+    align-items: left;
+}
+
+#more-button {
+    height: 100px;
+    
+}
+#about-body {
+    background-image: url('about_bg.jpg');
+    background-size: cover;
+    background-position:center;
+    background-repeat:no-repeat ;
+    height: 100vh;
+}
+#about-text-box {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    margin-left: 200px;
+    margin-top: 200px;
+    box-shadow: 3px 3px 6px black;
+    border-radius: 20px;
+    padding: 20px;
+    display: inline-flex;
+}
+.about-text {
+    color: white;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    font-weight: 400;
+}
+
+#about-tittle {
+    margin-top: 100px;
+    display: inline;
+    box-shadow: 3px 3px 3px black;
+    color: white;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 200px;
+    border-radius:15px;
+}
+
+#click-box {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px grey;
+    display: inline-block;
+    padding: 5px;
+    margin-top: 20px;
+    margin-right: 200px;
+}
+
+#click-tittle {
+    font: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+}
+
+#contact-body {
+    background-image: url('contact-bg.png');
+    background-size: cover;
+    background-position:center;
+    background-repeat:no-repeat ;
+    height: 100vh;
+}
+
+#contact-tittle-box {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin-top: 100px;
+    box-shadow: 3px 3px 6px black;
+    border-radius: 10px;
+    margin-left: 280px;
+}
+
+#contact-tittle {
+    font-size: 30px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+
+}
+#social-media-box {
+    display: flex;
+    justify-content:left;
+}
+
+
+#yt-logo {
+    height:80px;
+    margin: 50px;
+}
+#insta-logo {
+    height:135px;
+    margin-top:25px;
+    margin-left:0px;
+}
+
+#discord-logo {
+    height:60px;
+}
